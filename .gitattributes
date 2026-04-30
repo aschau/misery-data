@@ -1,0 +1,9 @@
+# Normalize line endings to LF in the repo. Bot writes from macOS; clones on
+# Windows show CRLF warnings without this. JSON / XML / Markdown / text are
+# all LF in the repo regardless of working tree.
+* text=auto eol=lf
+
+# JSON and XML are payloads consumed by RSS readers / browsers — explicit LF.
+*.json text eol=lf
+*.xml  text eol=lf
+*.md   text eol=lf
