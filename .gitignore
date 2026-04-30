@@ -1,0 +1,13 @@
+# Claude Code (local session config; rules/skills/agents stay out of the repo)
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
