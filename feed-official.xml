@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Developer Misery Index — Official Only</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Claude AI reliability based on official Anthropic status page only. No social chatter. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2026 16:06:23 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed-official.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>Claude Developer Misery Index — Official Only</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Official Status: 0.0/10 — ALL CLEAR</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">official-ALL CLEAR</guid>
+      <pubDate>Tue, 02 Jun 2026 10:51:25 GMT</pubDate>
+      <description>Official score: 0.0/10 (ALL CLEAR). Status: All Systems Operational.</description>
+      <category>official-status</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors on multiple models</title>
+      <link>https://stspg.io/j1r06qml3bvy</link>
+      <guid isPermaLink="false">incident-https://stspg.io/j1r06qml3bvy</guid>
+      <pubDate>Tue, 02 Jun 2026 14:59:04 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: This incident has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Degraded performance for Claude Sonnet 4.6</title>
+      <link>https://stspg.io/yt45tdcb7c50</link>
+      <guid isPermaLink="false">incident-https://stspg.io/yt45tdcb7c50</guid>
+      <pubDate>Mon, 01 Jun 2026 19:06:53 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This issue has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Elevated errors on Claude Sonnet 4.6</title>
+      <link>https://stspg.io/nypdcrtdn3t0</link>
+      <guid isPermaLink="false">incident-https://stspg.io/nypdcrtdn3t0</guid>
+      <pubDate>Mon, 01 Jun 2026 15:41:10 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This incident has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Elevated errors for Claude Opus 4.7</title>
+      <link>https://stspg.io/9r2pkqq2zhh6</link>
+      <guid isPermaLink="false">incident-https://stspg.io/9r2pkqq2zhh6</guid>
+      <pubDate>Mon, 01 Jun 2026 13:33:56 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This incident has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Sonnet 4.5 elevated errors</title>
+      <link>https://stspg.io/22x7sjxvzqm1</link>
+      <guid isPermaLink="false">incident-https://stspg.io/22x7sjxvzqm1</guid>
+      <pubDate>Mon, 01 Jun 2026 09:28:37 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This incident has been resolved.</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
