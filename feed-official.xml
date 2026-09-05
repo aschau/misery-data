@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Developer Misery Index — Official Only</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Claude AI reliability based on official Anthropic status page only. No social chatter. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Sep 2026 23:46:05 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed-official.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>Claude Developer Misery Index — Official Only</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Official Status: 0.0/10 — ALL CLEAR</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">official-ALL CLEAR</guid>
+      <pubDate>Thu, 03 Sep 2026 16:31:03 GMT</pubDate>
+      <description>Official score: 0.0/10 (ALL CLEAR). Status: All Systems Operational.</description>
+      <category>official-status</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for multiple models</title>
+      <link>https://stspg.io/9xz4hhmd1jzn</link>
+      <guid isPermaLink="false">incident-https://stspg.io/9xz4hhmd1jzn</guid>
+      <pubDate>Thu, 03 Sep 2026 16:23:12 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting Claude Mythos 5.1, Claude Fable 5.1, and Claude Opus 5 has been resolved. Impact has ended as of 9:16 PT / 16:16 UTC.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for Claude Sonnet 5</title>
+      <link>https://stspg.io/jt14jk41pjsf</link>
+      <guid isPermaLink="false">incident-https://stspg.io/jt14jk41pjsf</guid>
+      <pubDate>Thu, 03 Sep 2026 12:56:26 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: This incident has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for Claude Sonnet 5</title>
+      <link>https://stspg.io/9dgzwz3ymz42</link>
+      <guid isPermaLink="false">incident-https://stspg.io/9dgzwz3ymz42</guid>
+      <pubDate>Wed, 02 Sep 2026 21:44:28 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting Claude Sonnet 5 has been resolved. Impact occurred from 2:05pm PT / 21:05 UTC to 2:19pm PT / 21:19 UTC.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Delays in credit purchases</title>
+      <link>https://stspg.io/jc510qy51bfh</link>
+      <guid isPermaLink="false">incident-https://stspg.io/jc510qy51bfh</guid>
+      <pubDate>Wed, 02 Sep 2026 01:24:22 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This issue has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Degraded performance on platform.claude.com and Claude for Microsoft Office 365</title>
+      <link>https://stspg.io/4rf459q4pjc3</link>
+      <guid isPermaLink="false">incident-https://stspg.io/4rf459q4pjc3</guid>
+      <pubDate>Tue, 01 Sep 2026 18:07:03 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This issue has been resolved.</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
