@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Developer Misery Index</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Near real-time Claude AI reliability tracking — misery score, API status, and incident alerts. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2026 21:21:32 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>Claude Developer Misery Index</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Misery Index: 3.5/10 — GROWING UNREST</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">misery-GROWING UNREST</guid>
+      <pubDate>Sat, 31 Oct 2026 21:06:34 GMT</pubDate>
+      <description>Score: 3.5/10 (GROWING UNREST). Status: All Systems Operational.</description>
+      <category>misery-score</category>
+    </item>
+    <item>
+      <title>[MINOR] Elevated errors affecting the Google Calendar connector</title>
+      <link>https://stspg.io/75qq31h8672d</link>
+      <guid isPermaLink="false">incident-https://stspg.io/75qq31h8672d</guid>
+      <pubDate>Wed, 28 Oct 2026 20:05:18 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: The issue affecting the Google Calendar connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 04:07 PT / 11:07 UTC on October 26 to 11:52 PT / 18:52 UTC on October 28.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Elevated errors affecting the Gmail connector</title>
+      <link>https://stspg.io/j86c100s8tqm</link>
+      <guid isPermaLink="false">incident-https://stspg.io/j86c100s8tqm</guid>
+      <pubDate>Wed, 28 Oct 2026 05:48:13 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: The issue affecting the Gmail connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:00 PT / 23:00 UTC on October 27 to 22:29 PT on October 27 / 05:29 UTC on October 28.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for Claude Sonnet 5.5</title>
+      <link>https://stspg.io/39x7qh3sd7bd</link>
+      <guid isPermaLink="false">incident-https://stspg.io/39x7qh3sd7bd</guid>
+      <pubDate>Tue, 27 Oct 2026 15:50:17 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 07:42 PT / 14:42 UTC to 08:17 PT / 15:17 UTC.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for Claude Sonnet 5.5</title>
+      <link>https://stspg.io/rql9h590npxd</link>
+      <guid isPermaLink="false">incident-https://stspg.io/rql9h590npxd</guid>
+      <pubDate>Tue, 27 Oct 2026 09:56:46 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting Claude services has been resolved.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Elevated errors for Claude Fable 5.1</title>
+      <link>https://stspg.io/y0gkl12ztjst</link>
+      <guid isPermaLink="false">incident-https://stspg.io/y0gkl12ztjst</guid>
+      <pubDate>Sun, 25 Oct 2026 08:49:29 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting Claude services has been resolved. Impact occurred from 01:08 PT / 08:08 UTC to 01:29 PT / 08:29 UTC.</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
