@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claude Developer Misery Index</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Near real-time Claude AI reliability tracking — misery score, API status, and incident alerts. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Nov 2026 13:37:42 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>Claude Developer Misery Index</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Misery Index: 3.0/10 — MINOR GRUMBLING</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">misery-MINOR GRUMBLING</guid>
+      <pubDate>Fri, 06 Nov 2026 22:52:47 GMT</pubDate>
+      <description>Score: 3.0/10 (MINOR GRUMBLING). Status: All Systems Operational.</description>
+      <category>misery-score</category>
+    </item>
+    <item>
+      <title>[MINOR] Elevated errors affecting the Google Calendar connector</title>
+      <link>https://stspg.io/75qq31h8672d</link>
+      <guid isPermaLink="false">incident-https://stspg.io/75qq31h8672d</guid>
+      <pubDate>Wed, 28 Oct 2026 20:05:18 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: The issue affecting the Google Calendar connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 04:07 PT / 11:07 UTC on October 26 to 11:52 PT / 18:52 UTC on October 28.</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
