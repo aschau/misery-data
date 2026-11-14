@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Developer Misery Index</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Near real-time reliability tracking for Claude, ChatGPT, Gemini and Copilot: misery score, status pages and incident alerts. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Nov 2026 12:58:52 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>AI Developer Misery Index</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Misery Index: 1.5/10 — MINOR GRUMBLING (worst: Claude 2.6)</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">misery-MINOR GRUMBLING</guid>
+      <pubDate>Sat, 14 Nov 2026 07:13:51 GMT</pubDate>
+      <description>Score: 1.5/10 (MINOR GRUMBLING). Average of four. Worst: Claude 2.6. Claude 2.6, OpenAI 2.5, Gemini 0.9, Copilot 0.0.</description>
+      <category>misery-score</category>
+    </item>
+    <item>
+      <title>[MAJOR] Claude: Some users unable to sign up with Apple on the Claude iOS app</title>
+      <link>https://stspg.io/4858wf40dx89</link>
+      <guid isPermaLink="false">incident-https://stspg.io/4858wf40dx89</guid>
+      <pubDate>Sat, 14 Nov 2026 07:11:36 GMT</pubDate>
+      <description>Status: investigating. Impact: major. Latest: We are investigating an issue with Sign in with Apple on the Claude iOS app, which is mainly affecting new accounts. New users can sign up with Google or email instead. We will provide an update as soon as possible.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Copilot: Users may be unable to connect to multiple Microsoft 365 services</title>
+      <link>https://status.cloud.microsoft/</link>
+      <guid isPermaLink="false">incident-https://status.cloud.microsoft/</guid>
+      <pubDate>Sat, 14 Nov 2026 05:43:54 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: Current status: We continue to observe sustained service recovery across the previously affected environments. Due to the severity of impact this incident caused, we&apos;re monitoring for an extended period to ensure no additional mitigative actions are required. In parallel, we&apos;re monitoring the backl…</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] OpenAI: Delayed Costs Data in the Compliance API</title>
+      <link>https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M7ATRS6BMZ61E4JDHJGM79Y0</guid>
+      <pubDate>Sat, 14 Nov 2026 05:31:20 GMT</pubDate>
+      <description>Status: monitoring. Impact: minor. Latest: We are monitoring the affected services to confirm recovery. Delays in cost data are still expected.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[NONE] OpenAI: Elevated errors with ChatGPT billing and Ads billing</title>
+      <link>https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M7C40W0N5MZHNW0YM09QV962</guid>
+      <pubDate>Sat, 14 Nov 2026 05:27:53 GMT</pubDate>
+      <description>Status: resolved. Impact: none. Latest: All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Claude: Elevated purchasing errors on claude.ai</title>
+      <link>https://stspg.io/qqf00d9r7pm4</link>
+      <guid isPermaLink="false">incident-https://stspg.io/qqf00d9r7pm4</guid>
+      <pubDate>Sat, 14 Nov 2026 04:23:05 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting purchases and plan changes on claude.ai has been resolved, and delayed plan changes and payments have now been applied. Impact occurred from 18:34 PT on November 13 / 02:34 UTC on November 14 to 20:03 PT on November 13 / 04:03 UTC on November 14.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] OpenAI: Elevated errors affecting the Microsoft 365 connector</title>
+      <link>https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M78GAT3AK9P9W8Z230KHFVE8</guid>
+      <pubDate>Sat, 14 Nov 2026 00:18:13 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Claude: Elevated errors affecting the Microsoft 365 connector</title>
+      <link>https://stspg.io/m0rbx38nmy1c</link>
+      <guid isPermaLink="false">incident-https://stspg.io/m0rbx38nmy1c</guid>
+      <pubDate>Fri, 13 Nov 2026 21:49:44 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: This incident has been resolved. From 08:03 PT / 16:03 UTC on November 12 to 08:40 PT / 16:40 UTC on November 13, mail, calendar and search tools in the Microsoft 365 connector and Claude for Outlook returned errors for many requests because of a Microsoft 365 service incident. Microsoft is still completing its recovery, so you may see occasional errors or delays.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Copilot: Copilot experiencing degraded model availability for some GPT models</title>
+      <link>https://stspg.io/cppzsh0j19vy</link>
+      <guid isPermaLink="false">incident-https://stspg.io/cppzsh0j19vy</guid>
+      <pubDate>Fri, 13 Nov 2026 21:38:45 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: Between 19:05 and 21:27 UTC on November 13, 2026, GitHub Copilot experienced degradation affecting GPT-6.1 Terra, GPT-5.6 Sol, and GPT-6 Luna models. Users encountered elevated error rates when using these models. The degradation was caused by an issue with an upstream model provider. GitHub engine…</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
