@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Developer Misery Index: Official Only</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Claude, ChatGPT, Gemini and Copilot reliability from the official status pages only. No social chatter. Updated every 15 minutes.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2026 18:44:00 GMT</lastBuildDate>
+    <ttl>15</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed-official.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>AI Developer Misery Index: Official Only</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Official Status: 0.0/10 — ALL CLEAR</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">official-ALL CLEAR</guid>
+      <pubDate>Thu, 19 Nov 2026 16:28:58 GMT</pubDate>
+      <description>Official score: 0.0/10 (ALL CLEAR). Average of four. Worst: Claude 0.0. Claude 0.0, OpenAI 0.0, Gemini 0.0, Copilot 0.0.</description>
+      <category>official-status</category>
+    </item>
+    <item>
+      <title>[MAJOR] OpenAI: Elevated error rates for gpt-6 Luna API requests</title>
+      <link>https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M7T8MRF9SDBDNQ62Z6V156ZZ</guid>
+      <pubDate>Thu, 19 Nov 2026 16:58:04 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Copilot: Degraded availability for GPT-6 Luna in Copilot</title>
+      <link>https://stspg.io/vv0kzmyd9wqs</link>
+      <guid isPermaLink="false">incident-https://stspg.io/vv0kzmyd9wqs</guid>
+      <pubDate>Thu, 19 Nov 2026 16:37:00 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MAJOR] Claude: Elevated errors for Claude Mythos 5.2 and Claude Fable 5.2</title>
+      <link>https://stspg.io/nlb5fptv28h5</link>
+      <guid isPermaLink="false">incident-https://stspg.io/nlb5fptv28h5</guid>
+      <pubDate>Thu, 19 Nov 2026 09:33:18 GMT</pubDate>
+      <description>Status: resolved. Impact: major. Latest: The issue affecting claude.ai, the Claude API, Claude Code, and Claude Cowork has been resolved. Impact occurred from 00:56 PT / 08:56 UTC to 01:11 PT / 09:11 UTC.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] OpenAI: Costs API data is delayed</title>
+      <link>https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D</guid>
+      <pubDate>Thu, 19 Nov 2026 02:42:30 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Claude: Claude Meetings auto-join limited on the Team plan</title>
+      <link>https://stspg.io/01qq3kzyyqzl</link>
+      <guid isPermaLink="false">incident-https://stspg.io/01qq3kzyyqzl</guid>
+      <pubDate>Thu, 19 Nov 2026 02:15:05 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: Claude Meetings (beta) is joining calls normally. Enterprise and Team customers can add Claude to calls. Auto-join is available for all Enterprise customers and some Team customers. We&apos;ll continue rolling out auto-join to additional Team customers in the coming days.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] OpenAI: Elevated conversation errors for Free and Go users</title>
+      <link>https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X</link>
+      <guid isPermaLink="false">incident-https://status.openai.com/incidents/01M7Q99XRGP8T4DWJN8DSZXA1X</guid>
+      <pubDate>Wed, 18 Nov 2026 14:13:46 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: All affected services are operating normally again. We’re sorry for the disruption, and we appreciate your patience.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Copilot: Degraded Availability for MAI Code 2 Flash in Copilot</title>
+      <link>https://stspg.io/3sbmvyy2ctyx</link>
+      <guid isPermaLink="false">incident-https://stspg.io/3sbmvyy2ctyx</guid>
+      <pubDate>Wed, 18 Nov 2026 09:34:15 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: This incident has been resolved. Thank you for your patience and understanding as we addressed this issue. A detailed root cause analysis will be shared as soon as it is available.</description>
+      <category>incident</category>
+    </item>
+    <item>
+      <title>[MINOR] Claude: Elevated errors affecting the Google Docs connector</title>
+      <link>https://stspg.io/qz7tfhb7sl68</link>
+      <guid isPermaLink="false">incident-https://stspg.io/qz7tfhb7sl68</guid>
+      <pubDate>Wed, 18 Nov 2026 01:44:40 GMT</pubDate>
+      <description>Status: resolved. Impact: minor. Latest: The issue affecting editing documents with the Google Docs connector on claude.ai, Claude Code, and Claude Cowork has been resolved. Impact occurred from 16:19 PT on November 17 / 00:19 UTC on November 18 to 17:33 PT on November 17 / 01:33 UTC on November 18.</description>
+      <category>incident</category>
+    </item>
+  </channel>
+</rss>
