@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI Developer Misery Index: Official Only</title>
+    <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    <description>Claude, ChatGPT, Gemini and Copilot reliability from the official status pages only. No social chatter. Posts only when the score rises by a point or more, or dies back down.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Nov 2026 12:11:49 GMT</lastBuildDate>
+    <ttl>60</ttl>
+    <atom:link href="https://raw.githubusercontent.com/aschau/misery-data/data/feed-official.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://www.raggedydoc.com/tools/misery-index/favicon.png</url>
+      <title>AI Developer Misery Index: Official Only</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+    </image>
+    <item>
+      <title>Official Status rose from 0.0 to 1.3/10 — MINOR GRUMBLING (worst: Claude 2.5)</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">official-rise-2026-11-25T12:11:49.834Z</guid>
+      <pubDate>Wed, 25 Nov 2026 12:11:49 GMT</pubDate>
+      <description>Official score: 1.3/10 (MINOR GRUMBLING). Average of four. Worst: Claude 2.5. Claude 2.5, OpenAI 2.5, Gemini 0.0, Copilot 0.0. Open incidents: OpenAI: ChatGPT is experiencing elevated conversation errors affecting Education, Team, Business, Pro, and Plus plans; Claude: Claude for Microsoft 365 add-in missing for some users.</description>
+      <category>official-status</category>
+    </item>
+    <item>
+      <title>Official Status: 0.0/10 — ALL CLEAR</title>
+      <link>https://www.raggedydoc.com/tools/misery-index/</link>
+      <guid isPermaLink="false">official-ALL CLEAR</guid>
+      <pubDate>Sat, 21 Nov 2026 23:44:01 GMT</pubDate>
+      <description>Official score: 0.0/10 (ALL CLEAR). Average of four. Worst: Claude 0.0. Claude 0.0, OpenAI 0.0, Gemini 0.0, Copilot 0.0.</description>
+      <category>official-status</category>
+    </item>
+  </channel>
+</rss>
